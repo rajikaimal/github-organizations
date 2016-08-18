@@ -4,7 +4,7 @@
   "description": "get organizations of a user",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --timeout 5000"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/rajikaimal/github-organizations/issues"
   },
-  "homepage": "https://github.com/rajikaimal/github-organizations#readme"
+  "homepage": "https://github.com/rajikaimal/github-organizations#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
 }
