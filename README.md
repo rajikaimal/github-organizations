@@ -1,4 +1,4 @@
-# github-organizations
+# github-organizations [![Build Status](https://travis-ci.org/rajikaimal/github-organizations.svg?branch=master)](https://travis-ci.org/rajikaimal/github-organizations)
 
 Fetch GitHub organizations of a user
 
