@@ -1,4 +1,4 @@
-# github-organizations [![Build Status](https://travis-ci.org/rajikaimal/github-organizations.svg?branch=master)](https://travis-ci.org/rajikaimal/github-organizations)
+# github-organizations [![Build Status](https://travis-ci.org/rajikaimal/github-organizations.svg?branch=master)](https://travis-ci.org/rajikaimal/github-organizations) [![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/github-organizations.svg)](https://greenkeeper.io/)
 
 Fetch GitHub organizations of a user
 
